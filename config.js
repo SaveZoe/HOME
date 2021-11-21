@@ -24,11 +24,11 @@ const CONFIG = {
 
   // Weather
   weatherKey: 'InsertYourAPIKeyHere123456',
-  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
+  weatherIcons: 'Nord', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'ru', // More languages in https://openweathermap.org/current#multi
 
-  trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
+  trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
   defaultLatitude: '55.75222',
   defaultLongitude: '37.61556',
 
