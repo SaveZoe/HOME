@@ -97,6 +97,10 @@ const CONFIG = {
         name: 'JetBrains',
         link: 'https://www.jetbrains.com/ru-ru/academy/',
       },
+      {
+      name: 'Spotify',
+      link: 'https://open.spotify.com/collection/tracks'
+      },
     ],
   },
 };
