@@ -101,6 +101,10 @@ const CONFIG = {
       name: 'Spotify',
       link: 'https://open.spotify.com/collection/tracks'
       },
+      {
+        name: 'WikiAnime',
+        link:'https://wikianime.tv/',
+      },
     ],
   },
 };
