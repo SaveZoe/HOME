@@ -12,7 +12,7 @@ const CONFIG = {
 
   // General
   name: 'SaveZoe',
-  imageBackground: false,
+  imageBackground: 'assets/background.jpg',
   openInNewTab: true,
   twelveHourFormat: false,
 
