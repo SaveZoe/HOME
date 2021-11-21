@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: 'Иди спать!',
 
   // Weather
-  weatherKey: '552a17c1d5c84c74670e57b1bfae5712',
+  weatherKey: 'abe295ef4e234ca55310bb92a8db4028',
   weatherIcons: 'Nord', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'ru', // More languages in https://openweathermap.org/current#multi
