@@ -17,10 +17,10 @@ const CONFIG = {
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingMorning: 'Доброе утро!',
+  greetingAfternoon: 'Добрый день,',
+  greetingEvening: 'Добрый вечер,',
+  greetingNight: 'Иди спать!',
 
   // Weather
   weatherKey: 'InsertYourAPIKeyHere123456',
@@ -29,8 +29,8 @@ const CONFIG = {
   language: 'ru', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '55.75',
-  defaultLongitude: '37.62',
+  defaultLatitude: '55.75222',
+  defaultLongitude: '37.61556',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
