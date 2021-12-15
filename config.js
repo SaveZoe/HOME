@@ -52,9 +52,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Setting',
-      icon: 'settings',
-      link: 'about:about',
+      name: 'Translate',
+      icon: 'globe',
+      link: 'https://translate.google.com/?hl=ru',
     },
     {
       id: '4',
