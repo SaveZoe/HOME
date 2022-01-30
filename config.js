@@ -91,6 +91,10 @@ const CONFIG = {
         name: 'WoT',
         link: 'https://worldoftanks.ru/',
       },
+      {
+        name: 'LeagueOfGrafs',
+        link: 'https://www.leagueofgraphs.com/summoner/euw/Zorryatrucl',
+      },
     ],
     secondList: [
       {
