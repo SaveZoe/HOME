@@ -95,6 +95,10 @@ const CONFIG = {
         name: 'LeagueOfGrafs',
         link: 'https://www.leagueofgraphs.com/summoner/euw/Zorryatrucl',
       },
+      {
+        name: 'Twitch',
+        link: 'https://www.twitch.tv',
+      },
     ],
     secondList: [
       {
