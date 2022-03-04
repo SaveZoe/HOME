@@ -113,10 +113,6 @@ const CONFIG = {
         name: 'WikiAnime',
         link:'https://wikianime.tv/',
       },
-      {
-        name: 'Rutracker',
-        link:'https://rutracker.org/forum/index.php?addon_rnd=0.832911923839847',
-      },
     ],
   },
 };
