@@ -88,12 +88,12 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'WoT',
-        link: 'https://worldoftanks.ru/',
+        name: 'BDO',
+        link: 'https://www.ru.playblackdesert.com/Main/Index',
       },
       {
-        name: 'LeagueOfGrafs',
-        link: 'https://www.leagueofgraphs.com/summoner/euw/Zorryatrucl',
+        name: 'garmoth',
+        link: 'https://garmoth.com',
       },
       {
         name: 'Twitch',
