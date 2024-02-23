@@ -102,16 +102,8 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'JetBrains',
-        link: 'https://www.jetbrains.com/ru-ru/academy/',
-      },
-      {
-      name: 'Spotify',
-      link: 'https://open.spotify.com/collection/tracks'
-      },
-      {
         name: 'WikiAnime',
-        link:'https://wikianime.tv/',
+        link:'https://wikianime.club',
       },
     ],
   },
